@@ -74,6 +74,9 @@ Project screenshots demonstrate:
 - AWS managed rules
 - Compliance review dashboard
 - IAM role configuration
+- ### AWS Config Dashboard
+
+![AWS Config Dashboard](screenshots/image.png)
 
 ---
 
